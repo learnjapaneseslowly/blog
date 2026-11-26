@@ -1,1 +1,24 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHVybHNldCB4bWxucz0iaHR0cDovL3d3dy5zaXRlbWFwcy5vcmcvc2NoZW1hcy9zaXRlbWFwLzAuOSI+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi88L2xvYz48L3VybD4KICA8dXJsPjxsb2M+aHR0cHM6Ly9sZWFybi1qYXBhbmVzZS1zbG93bHkucGFnZXMuZGV2L3Bvc3RzL2xlYXJuLWphcGFuZXNlLTE1LW1pbnV0ZXMtYS1kYXk8L2xvYz48L3VybD4KICA8dXJsPjxsb2M+aHR0cHM6Ly9sZWFybi1qYXBhbmVzZS1zbG93bHkucGFnZXMuZGV2L3Bvc3RzLzEwLWphcGFuZXNlLXdvcmRzLWJlZ2lubmVyczwvbG9jPjwvdXJsPgogIDx1cmw+PGxvYz5odHRwczovL2xlYXJuLWphcGFuZXNlLXNsb3dseS5wYWdlcy5kZXYvcG9zdHMvbm90aW9uLWphcGFuZXNlLWxlYXJuaW5nPC9sb2M+PC91cmw+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi9wb3N0cy9ob3ctdG8tcmVtZW1iZXItamFwYW5lc2Utd29yZHM8L2xvYz48L3VybD4KICA8dXJsPjxsb2M+aHR0cHM6Ly9sZWFybi1qYXBhbmVzZS1zbG93bHkucGFnZXMuZGV2L3Bvc3RzL2xpc3RlbmluZy1qYXBhbmVzZS1iZWdpbm5lcnM8L2xvYz48L3VybD4KICA8dXJsPjxsb2M+aHR0cHM6Ly9sZWFybi1qYXBhbmVzZS1zbG93bHkucGFnZXMuZGV2L3Bvc3RzL3JlYWQtamFwYW5lc2UtYmVnaW5uZXJzPC9sb2M+PC91cmw+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi9wb3N0cy91c2UtYWktdG8tbGVhcm4tZmFzdGVyPC9sb2M+PC91cmw+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi9wb3N0cy9zdGFydC1jb2RpbmctYmVnaW5uZXJzPC9sb2M+PC91cmw+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi9wb3N0cy9qYXBhbmVzZS1zdWJjdWx0dXJlLWJlZ2lubmVyczwvbG9jPjwvdXJsPgogIDx1cmw+PGxvYz5odHRwczovL2xlYXJuLWphcGFuZXNlLXNsb3dseS5wYWdlcy5kZXYvcG9zdHMvbWluaW1hbGlzbS1pbi1qYXBhbjwvbG9jPjwvdXJsPgogIDx1cmw+PGxvYz5odHRwczovL2xlYXJuLWphcGFuZXNlLXNsb3dseS5wYWdlcy5kZXYvcG9zdHMvZmlyc3QtdHJpcC10by1qYXBhbi1idWRnZXQ8L2xvYz48L3VybD4KICA8dXJsPjxsb2M+aHR0cHM6Ly9sZWFybi1qYXBhbmVzZS1zbG93bHkucGFnZXMuZGV2L3Bvc3RzL25vdGlvbi1kYWlseS1oYWJpdHMtc3lzdGVtPC9sb2M+PC91cmw+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi9wb3N0cy9sZWFybi1oaXJhZ2FuYS1rYXRha2FuYS1vbmUtd2VlazwvbG9jPjwvdXJsPgogIDx1cmw+PGxvYz5odHRwczovL2xlYXJuLWphcGFuZXNlLXNsb3dseS5wYWdlcy5kZXYvcG9zdHMvc3RhcnQtc3BlYWtpbmctamFwYW5lc2UtYmVnaW5uZXJzPC9sb2M+PC91cmw+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi9wb3N0cy9zdGFydC1sZWFybmluZy1rYW5qaS1iZWdpbm5lcnM8L2xvYz48L3VybD4KICA8dXJsPjxsb2M+aHR0cHM6Ly9sZWFybi1qYXBhbmVzZS1zbG93bHkucGFnZXMuZGV2L3Bvc3RzL2phcGFuZXNlLW51bWJlcnMtZGF0ZXMtY291bnRlcnMtYmVnaW5uZXJzPC9sb2M+PC91cmw+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi9wb3N0cy9qYXBhbmVzZS1wYXJ0aWNsZXMtYmVnaW5uZXJzLWd1aWRlPC9sb2M+PC91cmw+CiAgPHVybD48bG9jPmh0dHBzOi8vbGVhcm4tamFwYW5lc2Utc2xvd2x5LnBhZ2VzLmRldi9wb3N0cy9wb2xpdGUtcGxhaW4tamFwYW5lc2Uta2VpZ28tYmVnaW5uZXJzPC9sb2M+PC91cmw+CjwvdXJsc2V0PgoK
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://learn-japanese-slowly.pages.dev/</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/learn-japanese-15-minutes-a-day</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/10-japanese-words-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/notion-japanese-learning</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/how-to-remember-japanese-words</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/listening-japanese-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/read-japanese-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/use-ai-to-learn-faster</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/start-coding-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/japanese-subculture-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/minimalism-in-japan</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/first-trip-to-japan-budget</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/notion-daily-habits-system</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/learn-hiragana-katakana-one-week</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/start-speaking-japanese-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/start-learning-kanji-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/japanese-numbers-dates-counters-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/japanese-particles-beginners-guide</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/polite-plain-japanese-keigo-beginners</loc></url>
+  <url><loc>https://learn-japanese-slowly.pages.dev/posts/japanese-pronunciation-pitch-accent-beginners</loc></url>
+</urlset>
+
